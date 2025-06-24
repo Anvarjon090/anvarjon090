@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, FastAPI, Django, SQL**
 
-- 📫 How to reach me: [Telegram](https://t.me/anvrajon_a1)
+- 📫 How to reach me: [Telegram](https://t.me/@anvrajon_a1)
 
 - ⚡ Fun fact: *I love learning new technologies and building useful tools!*
 
